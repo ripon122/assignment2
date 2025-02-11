@@ -9,6 +9,8 @@
   }
 
 
+  /* nav bar section */
+
 *{
 
    padding: 0;
@@ -117,4 +119,11 @@ a.ma, a:hover{
    }
 
 
+}
+
+
+/*banner section */
+
+.banner{
+   display: flex;justify-content: space-between;
 }
